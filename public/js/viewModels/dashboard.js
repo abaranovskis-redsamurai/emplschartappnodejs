@@ -6,7 +6,7 @@
 /*
  * Your dashboard ViewModel code goes here
  */
-define(['ojs/ojcore', 'knockout', 'jquery', 'jet-composites/empls-chart/loader', 'ojs/ojbutton'],
+define(['ojs/ojcore', 'knockout', 'jquery', '//46.101.212.214/js/jet-composites/empls-chart/loader.js', 'ojs/ojbutton'],
  function(oj, ko, $) {
 
     function DashboardViewModel() {
